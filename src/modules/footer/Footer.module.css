@@ -1,0 +1,15 @@
+footer{
+    height: 3em;
+    grid-template-columns: 1fr 1fr;
+}
+#footerDeveloperText{
+    margin: 1em;
+    float: left;
+    padding-left: 2em;
+}
+.footerDeveloperInstagram{
+    margin: 1em;
+    color: #FFFBE9;
+    float: right;
+    padding-right: 2em;
+}
