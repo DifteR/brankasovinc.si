@@ -1,6 +1,10 @@
 :root{
   background-color: #FFFBE9;
 }
+Header{
+  background-color: #AD8B73;
+  color: #FFFBE9;
+}
 Footer{
   background-color: #AD8B73;
   color: #FFFBE9;
